@@ -1,0 +1,9 @@
+body,
+html {
+  font-family: "League Spartan", sans-serif;
+}
+
+.footer {
+  margin-top: 3rem;
+  text-align: center;
+}
