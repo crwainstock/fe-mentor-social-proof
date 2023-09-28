@@ -1,7 +1,11 @@
+/* Default styling is for mobile */
 body,
 html {
   font-family: "League Spartan", sans-serif;
+  font-size: 0.938rem;
 }
+/* I have no idea whether this is accurate or not, but I used this calculator to convert the px font-size to rem
+https://nekocalc.com/px-to-rem-converter */
 
 footer {
   margin-top: 3rem;
