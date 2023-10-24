@@ -14,10 +14,10 @@ You can see a couple of other little, cutie builds [here](https://github.com/crw
 
 This component was built with HTML and vanilla CSS. No dependencies! 🥳 I also used [PerfectPixel](https://www.welldonecode.com/perfectpixel/) and the [Eye Dropper/Color Picker](https://eyedropper.org/) browser extensions to help with the build.
 
-I deployed the component with Netlify, though, so check that out [here](https://chimerical-speculoos-04cff7.netlify.app/).
+I deployed the component with Netlify, though, so check that out [here](https://cute-moxie-ff1171.netlify.app/).
 
 ## 🤔 Reflection
 
 ## 👀 Demo & Live Version
 
-Check out the live version of this component [here](https://chimerical-speculoos-04cff7.netlify.app/).
+Check out the live version of this component [here](https://cute-moxie-ff1171.netlify.app/).
