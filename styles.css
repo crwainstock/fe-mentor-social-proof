@@ -41,6 +41,9 @@ h1 {
 .reviews h4 {
   color: hsl(333, 80%, 67%);
 }
+.reviews img {
+  border-radius: 100px;
+}
 footer {
   margin-top: 3rem;
   text-align: center;
