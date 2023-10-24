@@ -7,6 +7,11 @@ html {
 /* I have no idea whether this is accurate or not, but I used this calculator to convert the px font-size to rem
 https://nekocalc.com/px-to-rem-converter */
 
+/* Revisit this. Need bottom image for mobile as well. Both top and bottom for larger screens, too. */
+#body-top-mobile {
+  background-image: url("./ProjectRequirements/image/bg-pattern-top-mobile.svg");
+}
+
 footer {
   margin-top: 3rem;
   text-align: center;
