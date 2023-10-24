@@ -33,6 +33,10 @@ h1 {
 .review-container {
   margin-top: 1rem;
 }
+.reviews {
+  background-color: hsl(300, 43%, 22%);
+  color: hsl(0, 0%, 100%);
+}
 footer {
   margin-top: 3rem;
   text-align: center;
