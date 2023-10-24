@@ -17,7 +17,17 @@ https://nekocalc.com/px-to-rem-converter */
   margin: 0 auto;
   max-width: 80%;
   text-align: center;
-  padding-top: 3.7rem;
+  padding-top: 2.8rem;
+}
+h1 {
+  font-size: 2.8em;
+  line-height: 0.8;
+}
+
+.ratings {
+  background-color: hsl(300, 24%, 96%);
+  padding: 1rem;
+  margin-top: 1rem;
 }
 footer {
   margin-top: 3rem;
