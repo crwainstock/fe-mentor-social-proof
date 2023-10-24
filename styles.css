@@ -52,6 +52,7 @@ h1 {
   color: hsl(333, 80%, 67%);
 }
 .reviews img {
+  max-width: 2.8rem;
   border-radius: 100px;
   place-self: center;
 }
