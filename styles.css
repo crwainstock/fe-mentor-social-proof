@@ -12,6 +12,11 @@ https://nekocalc.com/px-to-rem-converter */
   background-image: url("./ProjectRequirements/image/bg-pattern-top-mobile.svg");
 }
 
+.component-container {
+  display: grid;
+  margin: 0 auto;
+  max-width: 80%;
+}
 footer {
   margin-top: 3rem;
   text-align: center;
