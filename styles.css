@@ -24,6 +24,7 @@ h1 {
   line-height: 0.8;
   margin-bottom: 1.7rem;
   letter-spacing: -0.8px;
+  color: hsl(300, 43%, 22%);
 }
 
 #header-h2 {
