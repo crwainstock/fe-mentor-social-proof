@@ -68,6 +68,7 @@ h1 {
   max-width: 88.5%;
   margin: 0 auto;
   margin-top: 1rem;
+  padding-bottom: 2rem;
 }
 .review-person {
   display: grid;
@@ -91,6 +92,13 @@ h1 {
   max-width: 2.8rem;
   border-radius: 100px;
   place-self: center;
+}
+.reviews p {
+  max-width: 88%;
+  margin: 0 auto;
+  font-size: 1.21em;
+  padding-top: 0.2rem;
+  line-height: 1.25em;
 }
 
 footer {
