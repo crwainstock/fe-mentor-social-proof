@@ -31,12 +31,21 @@ h1 {
   line-height: 1.5;
   margin-bottom: 2rem;
 }
+#header-section {
+  margin-bottom: 2.5rem;
+}
 
 .ratings {
   background-color: hsl(300, 24%, 96%);
-  padding: 1rem;
-  margin-top: 1rem;
+  padding: 0.5rem;
+  margin-top: 1.2rem;
   border-radius: 10px;
+}
+.ratings p {
+  margin-top: 0.5rem;
+  font-size: 1.2em;
+  color: hsl(300, 43%, 22%);
+  font-weight: 700;
 }
 
 .stars {
