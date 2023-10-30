@@ -65,6 +65,8 @@ h1 {
   color: hsl(0, 0%, 100%);
   border-radius: 10px;
   padding: 1rem;
+  max-width: 88.5%;
+  margin: 0 auto;
   margin-top: 1rem;
 }
 .review-person {
@@ -77,13 +79,13 @@ h1 {
   padding: 0.5rem;
 }
 .review-person-text h3 {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0rem;
 }
+
 .review-person-text h4 {
-  margin-top: 0.5rem;
-}
-.reviews h4 {
   color: hsl(333, 80%, 67%);
+  font-size: 1.1em;
+  margin-top: 0.3rem;
 }
 .reviews img {
   max-width: 2.8rem;
