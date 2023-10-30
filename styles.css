@@ -22,6 +22,12 @@ https://nekocalc.com/px-to-rem-converter */
 h1 {
   font-size: 2.8em;
   line-height: 0.8;
+  margin-bottom: 1.7rem;
+}
+
+#header-h2 {
+  font-size: 1.2em;
+  line-height: 1.5;
 }
 
 .ratings {
