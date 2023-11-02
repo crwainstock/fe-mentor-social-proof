@@ -41,9 +41,10 @@ h1 {
 
 .ratings {
   background-color: hsl(300, 24%, 96%);
-  padding: 0.5rem;
+  padding: 0rem;
   margin-top: 1.2rem;
   border-radius: 10px;
+  max-height: 4em;
 }
 .ratings p {
   margin-top: 0.5rem;
@@ -144,15 +145,14 @@ footer {
   }
   #header-h2 {
     font-size: 1.1em;
-    line-height: 1.5;
-    margin-bottom: 2rem;
     margin-top: 1rem;
-    color: hsl(303, 10%, 53%);
     max-width: 90%;
   }
   #ratings-section {
     display: grid;
     grid-column: auto;
+    margin-top: 2.5rem;
+    max-height: 61%;
   }
   .ratings {
     display: grid;
