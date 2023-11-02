@@ -143,6 +143,16 @@ footer {
     place-items: center;
     text-align: left;
   }
+  #rating-1 {
+    margin-right: 6rem;
+  }
+  #rating-2 {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+  #rating-3 {
+    margin-left: 6rem;
+  }
   .stars {
     grid-column: 1;
   }
