@@ -12,11 +12,6 @@ https://nekocalc.com/px-to-rem-converter */
   background: url("./bg-pattern-top-mobile.svg") no-repeat center center fixed;
   background-size: cover;
 }
-#body-bottom-mobile {
-  background: url("./bg-pattern-bottom-mobile.svg") no-repeat center center
-    fixed;
-  background-size: cover;
-}
 
 .component-container {
   display: grid;
@@ -113,4 +108,22 @@ h1 {
 footer {
   margin-top: 3rem;
   text-align: center;
+}
+
+/* Larger Screens */
+
+@media only screen and (min-width: 660px) {
+  .component-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin: 0 auto;
+    max-width: 82%;
+    text-align: center;
+    padding-top: 2.8rem;
+  }
+  .top-row-large {
+    grid-column: 1/6;
+    grid-row: 1;
+  }
 }
