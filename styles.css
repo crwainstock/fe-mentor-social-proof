@@ -137,6 +137,18 @@ footer {
     display: grid;
     grid-column: auto;
   }
+  .ratings {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+    text-align: left;
+  }
+  .stars {
+    grid-column: 1;
+  }
+  .ratings p {
+    grid-column: 2;
+  }
   .review-container {
     grid-column: 1/7;
     grid-row: 2;
