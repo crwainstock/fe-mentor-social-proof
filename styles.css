@@ -133,6 +133,14 @@ footer {
     grid-column: 1/2;
     text-align: left;
   }
+  h1 {
+    font-size: 4em;
+    margin-top: 2rem;
+    line-height: 0.8;
+    margin-bottom: 1.7rem;
+    letter-spacing: -0.8px;
+    color: hsl(300, 43%, 22%);
+  }
   #ratings-section {
     display: grid;
     grid-column: auto;
