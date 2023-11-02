@@ -142,6 +142,14 @@ footer {
     color: hsl(300, 43%, 22%);
     max-width: 90%;
   }
+  #header-h2 {
+    font-size: 1.1em;
+    line-height: 1.5;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    color: hsl(303, 10%, 53%);
+    max-width: 90%;
+  }
   #ratings-section {
     display: grid;
     grid-column: auto;
@@ -153,14 +161,10 @@ footer {
     text-align: left;
   }
   #rating-1 {
-    margin-right: 6rem;
   }
   #rating-2 {
-    margin-left: 3rem;
-    margin-right: 3rem;
   }
   #rating-3 {
-    margin-left: 6rem;
   }
   .stars {
     grid-column: 1;
