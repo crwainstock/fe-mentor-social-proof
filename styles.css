@@ -125,6 +125,15 @@ footer {
   .top-row-large {
     grid-column: 1/7;
     grid-row: 1;
+    display: grid;
+  }
+  #header-section {
+    display: grid;
+    grid-column: 1/4;
+  }
+  #ratings-section {
+    display: grid;
+    grid-column: 4/7;
   }
   .review-container {
     grid-column: 1/7;
@@ -132,7 +141,7 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
   }
-  #colton-review {
+  /* #colton-review {
     grid-column: 1/2;
-  }
+  } */
 }
