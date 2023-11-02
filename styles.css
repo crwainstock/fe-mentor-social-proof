@@ -123,7 +123,11 @@ footer {
     padding-top: 2.8rem;
   }
   .top-row-large {
-    grid-column: 1/6;
+    grid-column: 1/7;
     grid-row: 1;
+  }
+  .review-container {
+    grid-column: 1/7;
+    grid-row: 2;
   }
 }
