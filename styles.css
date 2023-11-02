@@ -161,8 +161,12 @@ footer {
     text-align: left;
   }
   #rating-1 {
+    margin-left: 2rem;
+    margin-right: 3.6rem;
   }
   #rating-2 {
+    margin-left: 4.6rem;
+    margin-right: 0.5rem;
   }
   #rating-3 {
   }
@@ -171,6 +175,7 @@ footer {
   }
   .ratings p {
     grid-column: 2;
+    font-size: 1.1em;
   }
   .review-container {
     grid-column: 1/7;
