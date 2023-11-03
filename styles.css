@@ -194,6 +194,8 @@ footer {
     grid-row: 2;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 2.9rem;
+    margin-right: 0.7rem;
   }
   /* #colton-review {
     grid-column: 1/2;
