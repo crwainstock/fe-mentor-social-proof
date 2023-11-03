@@ -158,7 +158,7 @@ footer {
   }
   .ratings {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1.5fr 2fr;
     place-items: center;
     text-align: left;
   }
@@ -168,19 +168,26 @@ footer {
   }
   #rating-2 {
     margin-left: 3.8rem;
+    margin-right: 2.6rem;
   }
   #rating-3 {
     margin-left: 6.6rem;
   }
   .stars {
     grid-column: 1;
+
+    padding-top: 0rem;
   }
   .stars img {
     width: 1.1em;
+    padding: 0rem;
+    margin-right: 4px;
   }
+
   .ratings p {
     grid-column: 2;
     font-size: 1.1em;
+    padding-right: 2rem;
   }
   .review-container {
     grid-column: 1/7;
