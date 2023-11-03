@@ -196,8 +196,22 @@ footer {
     grid-template-columns: 1fr 1fr 1fr;
     margin-left: 2.9rem;
     margin-right: 0.7rem;
+    margin-top: -1.5rem;
   }
-  /* #colton-review {
-    grid-column: 1/2;
-  } */
+  .reviews {
+    margin-right: 1rem;
+    max-height: 62%;
+  }
+  #colton-review {
+  }
+  #irene-review {
+    margin-top: 2rem;
+    margin-right: 0.8rem;
+    margin-left: 0.8rem;
+  }
+  #anne-review {
+    margin-top: 3rem;
+    margin-left: 1rem;
+    margin-right: 0.4rem;
+  }
 }
