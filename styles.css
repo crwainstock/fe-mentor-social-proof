@@ -175,7 +175,6 @@ footer {
   }
   .stars {
     grid-column: 1;
-
     padding-top: 0rem;
   }
   .stars img {
@@ -200,7 +199,17 @@ footer {
   }
   .reviews {
     margin-right: 1rem;
-    max-height: 62%;
+    max-height: 49%;
+  }
+  .reviews img {
+    max-width: 2.4rem;
+  }
+  .reviews p {
+    padding-top: 0.5rem;
+    font-size: 1em;
+    line-height: 1.4;
+    max-width: 83%;
+    margin-left: 1rem;
   }
   #colton-review {
   }
@@ -213,5 +222,15 @@ footer {
     margin-top: 3rem;
     margin-left: 1rem;
     margin-right: 0.4rem;
+  }
+  .review-person {
+    padding-top: 0rem;
+    margin-top: 0.5rem;
+  }
+  .review-person-text {
+    padding: 0rem;
+  }
+  .review-person-text h3 {
+    font-size: 1.1em;
   }
 }
