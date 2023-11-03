@@ -18,6 +18,12 @@ I deployed the component with Netlify, though, so check that out [here](https://
 
 ## 🤔 Reflection
 
+Alright, so this build was a nice next step in reviewing the use of grid for placement of elements in the component. It was challenging at times to get the placement and sizing just right, especially in the larger screen view. I managed to get the elements lined up pretty accurately, but it feels sort of piecemeal. Maybe there's a better way than just adjusting margins and padding until things are lined up appropriately.
+
+I also struggled with getting the background images to render correctly. In this version, there is just one image used in the background (the mobile top image). While I worked on rendering images conditionally with CSS in [a previous build](https://github.com/crwainstock/fe-mentor-product-preview), I couldn't quite apply the same type of thing in this component for some reason.
+
+All of this reminds me, though, that there are multiple ways to achieve the same outcome. And I'm not sure if my solution is elegant or efficient, but it could be worse. 😊
+
 ## 👀 Demo & Live Version
 
 Check out the live version of this component [here](https://cute-moxie-ff1171.netlify.app/).
