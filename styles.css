@@ -163,13 +163,20 @@ footer {
     text-align: left;
   }
   #rating-1 {
+    margin-left: 1rem;
+    margin-right: 5.5rem;
   }
   #rating-2 {
+    margin-left: 3.8rem;
   }
   #rating-3 {
+    margin-left: 6.6rem;
   }
   .stars {
     grid-column: 1;
+  }
+  .stars img {
+    width: 1.1em;
   }
   .ratings p {
     grid-column: 2;
